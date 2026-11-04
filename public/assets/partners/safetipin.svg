@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 50" fill="none">
+  <!-- SAFETIPIN Typography -->
+  <text x="0" y="33" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="22" letter-spacing="2" fill="#EFEFEF">SAFETI</text>
+  <!-- Safety Pin Icon replacing I -->
+  <g transform="translate(118, 12)" fill="#EFEFEF">
+    <circle cx="5" cy="5" r="4" fill="none" stroke="#EFEFEF" stroke-width="2" />
+    <path d="M5 9L3 25C3 26.5 4 28 5.5 28C7 28 8 26.5 8 25L6 9Z" />
+    <circle cx="5.5" cy="22" r="1.5" fill="#000201" />
+  </g>
+  <text x="132" y="33" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="22" letter-spacing="2" fill="#EFEFEF">N</text>
+</svg>

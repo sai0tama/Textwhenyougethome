@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 50" fill="none">
+  <!-- UN Emblem -->
+  <g stroke="#EFEFEF" stroke-width="1.6" fill="none" transform="translate(5, 10)">
+    <circle cx="15" cy="15" r="12" />
+    <path d="M15 3V27M3 15H27M6.5 6.5L23.5 23.5M6.5 23.5L23.5 6.5" stroke-width="1" />
+    <path d="M7 19C10 23 20 23 23 19" stroke-width="2" />
+  </g>
+  <!-- UN WOMEN Typography -->
+  <text x="44" y="24" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="15" letter-spacing="1.5" fill="#EFEFEF">UN</text>
+  <text x="44" y="39" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="15" letter-spacing="1.5" fill="#EFEFEF">WOMEN</text>
+</svg>
